@@ -12,9 +12,15 @@
   }
   
   .expenses-filter label {
-    font-weight: bold;
+    /* font-weight: lighter; */
     margin-bottom: 0.5rem;
     color: black;
+    text-decoration :underline;
+    text-decoration-color: rgb(170, 90, 170);
+    text-align: start
+    ;
+
+
   }
   
   .expenses-filter select {

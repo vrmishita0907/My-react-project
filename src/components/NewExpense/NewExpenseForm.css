@@ -10,6 +10,8 @@
     font-weight: bold;
     margin-bottom: 0.5rem;
     display: block;
+    text-decoration: underline;
+    text-decoration-color: purple;
   }
   
   .new-expense__control input {
